@@ -1,0 +1,23 @@
+1. *ATM Object*
+    - Initialize the ATM object with account number, PIN, balance, and transaction history
+2. *User Authentication*
+    - Authenticate the user by checking the PIN
+    - Authenticate the user and check the balance
+    - Authenticate the user and withdraw money
+    - Authenticate the user and deposit money
+    - Authenticate the user and display the transaction history
+3. *Account Actions*
+    - Check the current balance
+    - Withdraw money from the account
+    - Deposit money into the account
+4. *PIN Management*
+    - Change the PIN
+5. *Transaction History*
+    - Get the transaction history
+6. *Simulation*
+    - Main function to run the ATM simulation
+    - Display the menu
+    - Handle the user's choice
+    - Exit the ATM simulation
+    - Display an error message for invalid choices
+    - Run the main function
